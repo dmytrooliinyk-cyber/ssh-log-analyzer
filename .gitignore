@@ -1,0 +1,3 @@
+__pycache__/
+incident_report.csv
+logs/auth.log
