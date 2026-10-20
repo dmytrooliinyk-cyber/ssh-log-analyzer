@@ -40,7 +40,4 @@ If the script finds any suspicious activity, it will print a message to the cons
 
 
 
-Next steps
-
-Later on, I plan to connect this tool to the AbuseIPDB API to automatically check if the suspicious IPs are known hackers. I also want to add a check for successful logins that happen immediately after multiple failed attempts.
 
